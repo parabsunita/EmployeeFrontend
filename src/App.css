@@ -1,0 +1,63 @@
+.container {
+  padding: 20px;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+.error {
+  color: red;
+}
+
+.user-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.user-table th,
+.user-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.user-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.user-table td button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.user-table td button:hover {
+  background-color: #d32f2f;
+}
+label {
+  display: block;
+}
+form {
+  width: 25%;
+  margin: 0 auto;
+}
+h2 {
+  text-align: center;
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+input,
+select {
+  width: 100%;
+  border-radius: 0.5rem;
+  padding: 0.2rem;
+}
+button {
+  float: right;
+  padding: 0.3rem 1rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+}
